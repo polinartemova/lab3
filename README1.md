@@ -1,0 +1,4 @@
+С помощью команды django-admin.py startproject blog оздайте в папке lab3 проект под названием blog. Теперь в папке blog выполните команду
+python manage.py startapp articles
+
+Это создаст в вашем проекте blog новое приложение.
